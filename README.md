@@ -15,7 +15,7 @@ Visualización web a través de http://localhost:3000
 - Debes tener rust instalado
 
 # Para correr la app en terminal
-- cargo run
+- cargo run. (el archivo "mis_claves.db debe estar en la carpeta principal donde está la app, afuera de la carpeta 'src'")
 - accede contraseña
 - ingresa a http://localhost:3000
 
